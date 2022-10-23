@@ -1,5 +1,6 @@
 import React from 'react';
 import logo from './logo.svg';
+import 'bootstrap/dist/css/bootstrap.css';
 import './App.css';
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
         >
           Learn React
         </a>
+        <button type="button" className='btn btn-primary'>Primary</button>
       </header>
     </div>
   );
