@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dews-towers/static/css/main.f4ffe046.css",
+    "main.js": "/dews-towers/static/js/main.390d8351.js",
+    "static/js/787.bc61277e.chunk.js": "/dews-towers/static/js/787.bc61277e.chunk.js",
+    "index.html": "/dews-towers/index.html",
+    "main.f4ffe046.css.map": "/dews-towers/static/css/main.f4ffe046.css.map",
+    "main.390d8351.js.map": "/dews-towers/static/js/main.390d8351.js.map",
+    "787.bc61277e.chunk.js.map": "/dews-towers/static/js/787.bc61277e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4ffe046.css",
+    "static/js/main.390d8351.js"
+  ]
+}
